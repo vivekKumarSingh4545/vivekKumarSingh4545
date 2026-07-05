@@ -1,14 +1,28 @@
-# 💫 Hi 👋, I'm Vivek Kumar Singh
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </a>
+</h1>
+
+### 💫 Hi 👋, I'm Vivek Kumar Singh
 
 **A passionate Full-Stack Developer (MERN) || Competitive Programmer from India**
+
+🌐 **Portfolio:** [vivekkumarsingh.vercel.app](https://vivekkumarsingh.vercel.app)
 
 - 🔭 **I'm currently working on:** DSABattle — a real-time 1v1 competitive coding platform
 - 🌱 **I'm currently learning:** TypeScript, testing frameworks (Jest/Cypress), and cloud platforms (AWS/GCP)
 - 👯 **I'm looking to collaborate on:** MERN stack projects with real-time features (Socket.IO/WebRTC)
-- 🤔 **I'm looking for help with:** Scaling real-time systems
+- 🤔 **I'm looking for help with:** Scaling real-time systems and CI/CD pipelines
 - 💬 **Ask me about:** MERN stack, DSA/Competitive Programming, System Design basics
 - 📫 **Reach me at:** vivekkumarsingh4545@gmail.com
 - ⚡ **Fun fact:** Solved 600+ DSA problems and still can't skip an unattempted LeetCode weekly contest
+
+## 🚀 Featured Projects
+
+- **[DSABattle](https://github.com/vivekKumarSingh4545/DSABattle)** — Real-time 1v1 competitive coding platform (React, Node.js, Socket.IO, Docker) with a server-side judge supporting Python/Java/C++ and sub-100ms event latency
+- **[Eventara](https://github.com/vivekKumarSingh4545/Eventara)** — MERN event booking platform with real-time seat-locking, Razorpay payments, and automated QR-coded ticket delivery
+- **[Zync](https://github.com/vivekKumarSingh4545/Zync)** — Real-time chat app with WebRTC audio/video calling, JWT dual-token auth, and 3-state message delivery tracking
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekkumarsingh4545) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vivek_singh4545) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekkumarsingh4545@gmail.com) 
@@ -27,14 +41,9 @@
 ![](https://streak-stats.demolab.com/?user=vivekKumarSingh4545&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vivekKumarSingh4545&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vivekKumarSingh4545&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vivekKumarSingh4545&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=vivekKumarSingh4545&icon=0&color=0)](https://visitcount.itsvg.in)
