@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vivek_kumar_singh_banner.png" width="100%">
+  <img src="Vivek_Kumar_Singh_Banner.png" width="100%">
 </p>
 
 <p align="center">
